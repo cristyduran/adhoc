@@ -1,6 +1,6 @@
 # Adhoc
 
-This is a website I built bootstrap according to UX/UI specifications.
+This is a website I built with bootstrap according to UX/UI specifications.
 
 ## Built with
 
